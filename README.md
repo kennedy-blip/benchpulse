@@ -8,3 +8,4 @@ npm
 run
 build
 git
+fix
