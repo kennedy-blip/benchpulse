@@ -4,3 +4,4 @@ install
 npm
 run
 dev
+npm
