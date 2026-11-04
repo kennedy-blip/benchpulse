@@ -7,3 +7,4 @@ dev
 npm
 run
 build
+git
