@@ -9,3 +9,4 @@ run
 build
 git
 fix
+errors
