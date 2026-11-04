@@ -1,2 +1,3 @@
 dex
 npm
+install
